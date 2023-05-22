@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 30px;
+  margin-top: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.text {
+  margin-top: 5px;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  background-color: #DDDDDD;
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+}
+
