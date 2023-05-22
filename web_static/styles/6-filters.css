@@ -1,0 +1,11 @@
+.popover {
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.filter:hover .popover {
+  display: block;
+}
+
