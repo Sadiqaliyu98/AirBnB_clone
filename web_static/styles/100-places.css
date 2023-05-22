@@ -1,0 +1,48 @@
+.amenities {
+  margin-top: 40px;
+}
+
+.amenities h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.amenities ul {
+  list-style: none;
+  padding: 0;
+}
+
+.amenities ul li {
+  display: flex;
+  align-items: center;
+}
+
+.amenities ul li .icon {
+  width: 20px;
+  height: 20px;
+  background-color: #DDDDDD;
+  margin-right: 10px;
+}
+
+.reviews {
+  margin-top: 40px;
+}
+
+.reviews h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.reviews ul {
+  list-style: none;
+  padding: 0;
+}
+
+.reviews ul li h3 {
+  font-size: 14px;
+}
+
+.reviews ul li p {
+  font-size: 12px;
+}
+
